@@ -1,0 +1,409 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper{
+  width: 100%;
+  height: auto;
+}
+
+.header{
+  width: 100%;
+  height: 120px;
+  float: left;
+  /* background-color: aqua; */
+}
+
+.header_title-box{
+  width: 50%;
+  height: 100px;
+  float: left;
+  /* background-color: yellow; */
+  margin-top: 20px;
+  margin-left: 350px;
+}
+
+.header_title{
+  color: blue;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.form_wrapper{
+  width: 75%;
+  height: 900px;
+  float: left;
+  /* background-color: rgb(0, 255, 255); */
+  margin-left: 190px;
+}
+
+.form_title-box_1{
+  width: 100%;
+  height: 20px;
+  float: left;
+  /* background-color: yellow; */
+  border-bottom: 1px solid red;
+}
+
+.form_title-1{
+  color: red;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.form_content-box_1{
+  width: 100%;
+  height: 299px;
+  float: left;
+  /* background-color: tomato; */
+}
+
+.form_detail-box_1{
+  width: 100%;
+  height: 35px;
+  float: left;
+  /* background-color: burlywood; */
+  margin-top: 2px;
+}
+
+.form_detail-subtext_1{
+  margin-top: 6px;
+}
+
+.form_bank{
+  color: blue;
+}
+
+.form-teller{
+  margin-left: 20px;
+}
+
+.form_text-2{
+  color: blue;
+  margin-left: 25px;
+}
+
+.form_cal{
+  color: red;
+  margin-left: 20px;
+}
+
+.form_selection{
+  margin-left: 10px;
+}
+
+.form_branch{
+  color: blue;
+}
+
+.form-branch{
+  margin-left: 105px;
+}
+
+.form_fname{
+  color: blue;
+}
+
+.form-fname{
+  margin-left: 87px;
+}
+
+.form_mname{
+  color: blue;
+  margin-left: 25px;
+}
+
+.form_lname{
+  color: blue;
+  margin-left: 20px;
+}
+
+.form-mname{
+  margin-left: 10px;
+}
+
+.form-lname{
+  margin-left: 20px;
+}
+
+.form_dob{
+  color: blue;
+}
+
+.dob_day{
+  margin-left: 65px;
+  color: red;
+}
+
+.form_marital{
+  color: blue;
+  margin-left: 119px;
+}
+
+.form_number_1{
+  color: blue;
+}
+
+.form-number-1{
+  margin-left: 50px;
+}
+
+.form_number_2{
+  color: blue;
+  margin-left: 25px;
+}
+
+.form_number_3{
+  color: blue;
+  margin-left: 20px;
+}
+
+.form-number-2{
+  margin-left: 15px;
+}
+
+.form-number-3{
+  margin-left: 15px;
+}
+
+.form-contact-1{
+  margin-left: 45px;
+}
+
+.form-contact-2{
+  margin-left: 33px;
+}
+
+.form-state{
+  margin-left: 54px;
+}
+
+.form_title-box_2{
+  width: 100%;
+  height: 20px;
+  float: left;
+  /* background-color: yellow; */
+  margin-top: 10px;
+  border-bottom: 1px solid red;
+}
+
+.form_content-box_2{
+  width: 100%;
+  height: 150px;
+  float: left;
+  /* background-color: tomato; */
+}
+
+.form_occupation{
+  color: blue;
+  margin-left: 20px;
+}
+
+.form-guardian{
+  margin-left: 10px;
+}
+
+.form-guardianaddr{
+  margin-left: 37px;
+}
+
+.form-guardiannum{
+  margin-left: 22px;
+}
+
+.form_content-box_3{
+  width: 100%;
+  height: 230px;
+  float: left;
+  /* background-color: tomato; */
+}
+
+.form_content-box_4{
+  width: 100%;
+  height: 180px;
+  float: left;
+  /* background-color: tomato; */
+}
+
+.form_detail-box_2{
+  width: 100%;
+  height: 40px;
+  float: left;
+  /* background-color: burlywood; */
+  margin-top: 30px;
+}
+
+.reg4-text{
+  color: blue;
+}
+
+.btn-1{
+  margin-top: 20px;
+  padding: 10px 30px;
+  background: rgba(255, 0, 0, 0.836);
+  color: white;
+  border: none;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-2{
+  margin-top: 20px;
+  margin-left: 10px;
+  padding: 10px 30px;
+  background: rgba(0, 128, 0, 0.87);
+  color: white;
+  border: none;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.footer-box{
+  width: 100%;
+  height: 90px;
+  float: left;
+  /* background-color: rgb(78, 77, 76); */
+  margin-top: 5px;
+}
+
+.footer-content_box{
+  width: 100%;
+  height: 30px;
+  float: left;
+  /* background-color: yellow; */
+  border-top: 3px solid blue;
+}
+
+.footer-content_text{
+  text-align: center;
+  margin-top: 30px;
+  font-size: 20px;
+  color: rgba(255, 0, 0, 0.925);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
